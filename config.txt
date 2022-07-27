@@ -1,0 +1,9 @@
+A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+TL;DR
+Get help and talk about ideas in the IPFS Forums
+Visit the IPFS website
+Watch Juan Benet's Why IPFS? keynote from IPFS Camp 2019
+Watch Juan's Stanford Seminar talk on IPFS: The Distributed, Permanent Web
+Watch a video demo of the IPFS alpha
+Dive in to the IPFS Docs
+Find out about chat channels, the IPFS newsletter, the IPFS blog, and more in the IPFS community space.
